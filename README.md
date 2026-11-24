@@ -38,3 +38,9 @@ A passionate frontend developer from **Lombok🏝️**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdedhikapratama29&" alt="gdedhikapratama29" /></p>
 
 <h2>play games with me 👾</h2>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdedhikapratama29/gdedhikapratama29/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdedhikapratama29/gdedhikapratama29/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gdedhikapratama29/gdedhikapratama29/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
